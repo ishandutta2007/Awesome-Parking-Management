@@ -41,18 +41,18 @@ The global **Parking Management Market size** is estimated at approximately **$4
 
 ## 🏢 SaaS/Hosted Platforms
 
-| Product | Company Size (Revenue / Valuation) | Description |
-| :--- | :--- | :--- |
-| **[FLASH (FlashParking)](https://www.flashparking.com/)** | ~$1.0B+ Valuation / ~$100M+ Revenue | Cloud-native parking platform for operators covering access, payments, enforcement, valet, and multi-location management. |
-| **[Skidata](https://www.skidata.com/)** | ~$393M Revenue / €340M (~$369M) Acquisition | Enterprise access and parking management solutions used in large facilities, airports, and venues worldwide. |
-| **[TIBA Parking](https://www.tibaparking.com/)** | ~$135M Acquisition / ~$60M Revenue | Parking access and revenue control systems with hardware and software for garages and lots. |
-| **[Flowbird](https://www.flowbird.group/)** | ~$117M Revenue / Acquired by EasyPark Group | Global provider of parking solutions including pay stations, mobile payments, and back-office management (formerly Parkeon). |
-| **[Passport Parking](https://passportinc.com/)** | ~$212M+ Funding / ~$21M Revenue | Comprehensive parking and mobility platform for cities and operators, including payments, enforcement, and digital permits. |
-| **[Get My Parking](https://www.getmyparking.com/)** | ~$44M Valuation / ~$4M+ Revenue | Parking technology platform offering management, payments, and digital solutions for operators and cities. |
-| **[ParkMobile](https://parkmobile.io/)** | ~$32.7M Revenue / Acquired by BMW Group | Leading mobile parking payments and operator platform widely used for meters, lots, airports, and venues. |
-| **[ParkHub](https://parkhub.com/)** | ~$29.5M Revenue / Merged with JustPark | Parking and event operations platform focused on venues, occupancy, payments, and real-time management. |
-| **[Parklio](https://parklio.com/)** | $1M–$10M Revenue (Est.) | Smart parking barriers and management solutions focused on reserved and private parking access control. |
-| **[Parkalot](https://parkalot.io/)** | Bootstrap / Micro (Private) | Parking management solution aimed at simplifying reservations, access, and operations for various facility types. |
+| Product | Company Size (Revenue / Valuation) | Starting Pricing Tier | Free Tier Limits / Free Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[FLASH (FlashParking)](https://www.flashparking.com/)** | ~$1.0B+ Valuation / ~$100M+ Revenue | $400/month (HaaS / minimum tier) | 14-day enterprise demo trial with virtual sandbox | Cloud-native parking platform for operators covering access, payments, enforcement, valet, and multi-location management. |
+| **[Skidata](https://www.skidata.com/)** | ~$393M Revenue / €340M (~$369M) Acquisition | $250/month (MSaaS entry lane license) | 30-day sandbox pilot for hardware/software integration | Enterprise access and parking management solutions used in large facilities, airports, and venues worldwide. |
+| **[TIBA Parking](https://www.tibaparking.com/)** | ~$135M Acquisition / ~$60M Revenue | $150/lane/month (SPARK cloud software) | 14-day VAR portal demo access | Parking access and revenue control systems with hardware and software for garages and lots. |
+| **[Flowbird](https://www.flowbird.group/)** | ~$117M Revenue / Acquired by EasyPark Group | $0.35 convenience fee/session (App) | Free consumer app download; zero monthly maintenance fees for base mobile users | Global provider of parking solutions including pay stations, mobile payments, and back-office management (formerly Parkeon). |
+| **[Passport Parking](https://passportinc.com/)** | ~$212M+ Funding / ~$21M Revenue | $0.25–$0.45 per transaction | Free public mobility app download; 30-day operator onboarding preview | Comprehensive parking and mobility platform for cities and operators, including payments, enforcement, and digital permits. |
+| **[Get My Parking](https://www.getmyparking.com/)** | ~$44M Valuation / ~$4M+ Revenue | $199/month (GMP Pass entry station) | 14-day interactive operator console demo trial | Parking technology platform offering management, payments, and digital solutions for operators and cities. |
+| **[ParkMobile](https://parkmobile.io/)** | ~$32.7M Revenue / Acquired by BMW Group | $3.99/month (ParkMobile Go membership) | 30-day free trial for ParkMobile Go membership (0% transaction fee during trial) | Leading mobile parking payments and operator platform widely used for meters, lots, airports, and venues. |
+| **[ParkHub](https://parkhub.com/)** | ~$29.5M Revenue / Merged with JustPark | $99/pos-terminal/month (Suite starter) | 14-day venue event management demo | Parking and event operations platform focused on venues, occupancy, payments, and real-time management. |
+| **[Parklio](https://parklio.com/)** | $1M–$10M Revenue (Est.) | $19/barrier/month (Parklio PMS Cloud) | 14-day Cloud PMS software trial with barrier simulator | Smart parking barriers and management solutions focused on reserved and private parking access control. |
+| **[Parkalot](https://parkalot.io/)** | Bootstrap / Micro (Private) | $49/month (up to 15 spaces & 50 users) | 30-day full-featured free trial (up to 100 spaces, no credit card required) | Parking management solution aimed at simplifying reservations, access, and operations for various facility types. |
 
 ---
 
