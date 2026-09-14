@@ -38,65 +38,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[FLASH (FlashParking)](https://www.flashparking.com/)**  
-
-  Cloud-native parking platform for operators covering access, payments, enforcement, valet, and multi-location management.
-
-
-
-- **[ParkMobile](https://parkmobile.io/)**  
-
-  Leading mobile parking payments and operator platform widely used for meters, lots, airports, and venues.
-
-
-
-- **[Passport Parking](https://passportinc.com/)**  
-
-  Comprehensive parking and mobility platform for cities and operators, including payments, enforcement, and digital permits.
-
-
-
-- **[ParkHub](https://parkhub.com/)**  
-
-  Parking and event operations platform focused on venues, occupancy, payments, and real-time management.
-
-
-
-- **[Parkalot](https://parkalot.io/)**  
-
-  Parking management solution aimed at simplifying reservations, access, and operations for various facility types.
-
-
-
-- **[Flowbird](https://www.flowbird.group/)**  
-
-  Global provider of parking solutions including pay stations, mobile payments, and back-office management (formerly Parkeon).
-
-
-
-- **[Get My Parking](https://www.getmyparking.com/)**  
-
-  Parking technology platform offering management, payments, and digital solutions for operators and cities.
-
-
-
-- **[TIBA Parking](https://www.tibaparking.com/)**  
-
-  Parking access and revenue control systems with hardware and software for garages and lots.
-
-
-
-- **[Skidata](https://www.skidata.com/)**  
-
-  Enterprise access and parking management solutions used in large facilities, airports, and venues worldwide.
-
-
-
-- **[Parklio](https://parklio.com/)**  
-
-  Smart parking barriers and management solutions focused on reserved and private parking access control.
+| Product | Company Size (Revenue / Valuation) | Description |
+| :--- | :--- | :--- |
+| **[FLASH (FlashParking)](https://www.flashparking.com/)** | ~$1.0B+ Valuation / ~$100M+ Revenue | Cloud-native parking platform for operators covering access, payments, enforcement, valet, and multi-location management. |
+| **[Skidata](https://www.skidata.com/)** | ~$393M Revenue / €340M (~$369M) Acquisition | Enterprise access and parking management solutions used in large facilities, airports, and venues worldwide. |
+| **[TIBA Parking](https://www.tibaparking.com/)** | ~$135M Acquisition / ~$60M Revenue | Parking access and revenue control systems with hardware and software for garages and lots. |
+| **[Flowbird](https://www.flowbird.group/)** | ~$117M Revenue / Acquired by EasyPark Group | Global provider of parking solutions including pay stations, mobile payments, and back-office management (formerly Parkeon). |
+| **[Passport Parking](https://passportinc.com/)** | ~$212M+ Funding / ~$21M Revenue | Comprehensive parking and mobility platform for cities and operators, including payments, enforcement, and digital permits. |
+| **[Get My Parking](https://www.getmyparking.com/)** | ~$44M Valuation / ~$4M+ Revenue | Parking technology platform offering management, payments, and digital solutions for operators and cities. |
+| **[ParkMobile](https://parkmobile.io/)** | ~$32.7M Revenue / Acquired by BMW Group | Leading mobile parking payments and operator platform widely used for meters, lots, airports, and venues. |
+| **[ParkHub](https://parkhub.com/)** | ~$29.5M Revenue / Merged with JustPark | Parking and event operations platform focused on venues, occupancy, payments, and real-time management. |
+| **[Parklio](https://parklio.com/)** | $1M–$10M Revenue (Est.) | Smart parking barriers and management solutions focused on reserved and private parking access control. |
+| **[Parkalot](https://parkalot.io/)** | Bootstrap / Micro (Private) | Parking management solution aimed at simplifying reservations, access, and operations for various facility types. |
 
 
 
