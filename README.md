@@ -35,6 +35,7 @@ The global **Parking Management Market size** is estimated at approximately **$4
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📊 Star History](#-star-history)
 
 ---
 
@@ -112,6 +113,12 @@ Deploy camera-based occupancy detection (**YOLO / OpenALPR**) ➔ Manage permits
 
 - This repository is a **community-curated** resource and does not constitute financial, legal, or commercial endorsement.
 - Parking Access & Revenue Control Systems process vehicle registration data, financial payments, and barrier operations. Ensure strict PCI-DSS compliance, GDPR/privacy standards, and safety validation when deploying open-source or custom implementations.
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Parking-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Parking-Management&type=date&legend=top-left)
 
 ---
 
