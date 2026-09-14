@@ -1,42 +1,44 @@
-# Awesome-Parking-Management
+# 🚗 Awesome Parking Management 🅿️
 
-## Top Parking Management Platforms Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Parking-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Parking-Management?style=for-the-badge&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Parking-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Parking-Management?style=for-the-badge&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Parking-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Parking Management Ecosystem Banner" width="100%">
+</p>
 
-*Focused on Parking Access & Revenue Control, Mobile Payments, Occupancy, Enforcement, Reservations & PARCS*
+## 📌 Top Parking Management Platforms Ecosystem
+
+**Curated List of SaaS Platforms, PARCS Software & Open-Source GitHub Projects**
+
+*Focused on Parking Access & Revenue Control Systems (PARCS), Mobile Payments, License Plate Recognition (LPR), Occupancy Detection, Smart Enforcement, Permit Management & Automated Parking Facilities.*
 
 **Last updated: September 2026**
 
+---
 
+### 🌐 Ecosystem & Market Insights
+The global **Parking Management Market size** is estimated at approximately **$4.5 Billion to $6.2 Billion**, projecting to surpass **$10 Billion by 2030** with a CAGR of ~11-12%. 
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Parking Management**. These systems handle access control, payments, occupancy monitoring, permits, enforcement, reservations, and operations for garages, lots, municipalities, campuses, and venues.
+**Market Dynamics**: The sector is **highly fragmented** with regional PARCS hardware incumbents, city-specific mobile payment apps, and specialized software vendors. While consolidated global leaders (e.g., FLASH, Skidata, Flowbird) dominate airport, enterprise, and municipal parking infrastructures, it is **not a "winner-take-all" market**. Modular APIs, IoT integrations, and open computer-vision models are enabling rapid innovation for private operators and localized smart cities.
 
+---
 
+## 📑 Table of Contents
 
-**Examples** include FLASH (FlashParking), ParkMobile, Passport Parking, ParkHub, Parkalot, Flowbird, Get My Parking, TIBA Parking, Skidata, and Parklio (the category leaders).
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
+---
 
-
-**Open-source emphasis**: Full-featured commercial parking management and PARCS platforms dominate the market. Open options are limited but include parking cloud projects, LPR/occupancy computer-vision tools, and emerging self-hosted systems. This section lists the strongest available resources and is realistic about the significant gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
+## 🏢 SaaS/Hosted Platforms
 
 | Product | Company Size (Revenue / Valuation) | Description |
 | :--- | :--- | :--- |
@@ -51,114 +53,68 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Parklio](https://parklio.com/)** | $1M–$10M Revenue (Est.) | Smart parking barriers and management solutions focused on reserved and private parking access control. |
 | **[Parkalot](https://parkalot.io/)** | Bootstrap / Micro (Private) | Parking management solution aimed at simplifying reservations, access, and operations for various facility types. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Below is a curated collection of open-source software, LPR engines, occupancy computer vision tools, and self-hosted parking frameworks, sorted by GitHub stargazers count:
 
-- **[ParkingOS Cloud](https://github.com/ParkingOS/ParkingOS_cloud)**  
+- **[OpenALPR](https://github.com/openalpr/openalpr)** <a href="https://github.com/openalpr/openalpr/stargazers"><img src="https://img.shields.io/github/stars/openalpr/openalpr?style=social&color=white" alt="OpenALPR Stars"/></a>  
+  Automated License Plate Recognition (ALPR / LPR) library written in C++ with bindings in Python, Node.js, and Java. Crucial engine for automated parking entry/exit gates.
 
-  Open-source parking cloud platform providing multi-level management, data query, and operational features for parking facilities.
+- **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)** <a href="https://github.com/ultralytics/ultralytics/stargazers"><img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social&color=white" alt="Ultralytics YOLO Stars"/></a>  
+  Real-time computer vision models (YOLOv8 / YOLOv11) extensively used for vision-based parking space occupancy detection and vehicle tracking.
 
+- **[parking_lot (Rust Primitives)](https://github.com/Amanieu/parking_lot)** <a href="https://github.com/Amanieu/parking_lot/stargazers"><img src="https://img.shields.io/github/stars/Amanieu/parking_lot?style=social&color=white" alt="parking_lot Stars"/></a>  
+  Compact and ultra-fast synchronization primitives (`Mutex`, `RwLock`) for high-performance concurrent parking systems and IoT sensor gateways.
 
+- **[Awesome Parking Slot Detection](https://github.com/lymhust/awesome-parking-slot-detection)** <a href="https://github.com/lymhust/awesome-parking-slot-detection/stargazers"><img src="https://img.shields.io/github/stars/lymhust/awesome-parking-slot-detection?style=social&color=white" alt="Awesome Parking Slot Detection Stars"/></a>  
+  Curated list of deep learning research papers, datasets, and code implementations for automatic parking slot line detection.
 
-- **[OsParking](https://github.com/osparking/OsParking_src)**  
+- **[Parker](https://github.com/oxedom/parker)** <a href="https://github.com/oxedom/parker/stargazers"><img src="https://img.shields.io/github/stars/oxedom/parker?style=social&color=white" alt="Parker Stars"/></a>  
+  Browser-based parking detection and space monitoring application powered by TensorFlow.js and WebRTC.
 
-  Open-source parking lot management software for registered vehicles, with support for LPR concepts and device simulation/integration.
+- **[ParkingOS Cloud](https://github.com/ParkingOS/ParkingOS_cloud)** <a href="https://github.com/ParkingOS/ParkingOS_cloud/stargazers"><img src="https://img.shields.io/github/stars/ParkingOS/ParkingOS_cloud?style=social&color=white" alt="ParkingOS Cloud Stars"/></a>  
+  Open-source parking cloud platform providing multi-level facility management, rate computation, data queries, and operational dashboards.
 
+- **[ParkingSlot](https://github.com/visualbuffer/parkingslot)** <a href="https://github.com/visualbuffer/parkingslot/stargazers"><img src="https://img.shields.io/github/stars/visualbuffer/parkingslot?style=social&color=white" alt="ParkingSlot Stars"/></a>  
+  Python-based automated parking occupancy detection using deep learning models (Mask R-CNN and YOLO).
 
+- **[Java Parking System](https://github.com/skyrunner360/Java-Parking-System)** <a href="https://github.com/skyrunner360/Java-Parking-System/stargazers"><img src="https://img.shields.io/github/stars/skyrunner360/Java-Parking-System?style=social&color=white" alt="Java Parking System Stars"/></a>  
+  Relational DBMS-focused application for managing parking bays, operator shifts, fee calculation, and vehicle ticketing.
 
-- **[Self-hosted parking management projects (e.g. ParkHub-style open runtimes)](https://github.com/)**  
+- **[Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)** <a href="https://github.com/prathimacode-hub/Ezy-Parking/stargazers"><img src="https://img.shields.io/github/stars/prathimacode-hub/Ezy-Parking?style=social&color=white" alt="Ezy-Parking Stars"/></a>  
+  Smart parking allocation system combining IoT hardware, machine learning, and mobile booking capabilities.
 
-  Emerging MIT-licensed or open self-hosted systems offering QR check-in, guest passes, occupancy tracking, and operator dashboards.
-
-
-
-- **[YOLO / computer-vision parking occupancy systems](https://github.com/ultralytics/ultralytics)**  
-
-  Open detection pipelines (Ultralytics YOLO and similar) used to monitor parking space occupancy from camera feeds in real time.
-
-
-
-- **[Smart parking gate and LPR open experiments](https://github.com/)**  
-
-  Community projects integrating license-plate recognition, barrier control, and basic entry/exit logging.
-
-
-
-- **[Permit and reservation open prototypes](https://github.com/)**  
-
-  Lightweight tools for managing parking permits, bookings, and access lists.
-
-
-
-- **[Payment and meter open integrations](https://github.com/)**  
-
-  Scripts and adapters that connect open systems to payment gateways or existing meter infrastructure.
-
-
-
-- **[Occupancy dashboard and sensor open stacks](https://github.com/)**  
-
-  IoT and visualization projects that aggregate space-level or zone-level occupancy data.
-
-
-
-- **[Municipal parking open data tools](https://github.com/)**  
-
-  Projects focused on publishing or consuming open parking availability and enforcement data.
-
-
-
-- **[Access-control and barrier open controllers](https://github.com/)**  
-
-  Firmware and software for managing gates, bollards, and private parking access in smaller deployments.
-
-
-
-### Additional Strong Open-Source Options
-
-- Using computer-vision (YOLO-based) solutions for occupancy detection and guidance without full PARCS replacement.
-
-- Exploring **ParkingOS** or similar open cloud projects for multi-facility visibility and basic operations.
-
-- Building lightweight permit and reservation systems on open web stacks for private or campus lots.
-
-- Accepting that integrated hardware (barriers, LPR cameras, pay stations), mobile payment networks, enforcement workflows, and large-scale revenue control still require commercial platforms.
-
-- Combining open occupancy monitoring with commercial payment and access systems in hybrid architectures.
-
-
-
-**Frameworks for building custom systems**: Deploy camera-based occupancy detection (open CV models) → manage permits and reservations in a self-hosted app → control basic access via open or low-cost controllers → handle payments through external gateways → report occupancy and revenue via open dashboards. This can serve smaller private lots or experimental deployments. Commercial platforms (FLASH, ParkMobile, Passport, ParkHub, Skidata, Flowbird, TIBA, etc.) remain the practical choice for professional operators needing reliable hardware integration, payment processing, enforcement, and multi-site management.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Parking systems involve payments, vehicle data, access control, and sometimes enforcement. Errors can affect revenue, security, and user experience. Open-source or self-built solutions require careful attention to payment compliance (PCI), privacy, reliability, and local regulations. Always validate hardware compatibility and legal requirements. This list is not operational, legal, or financial advice.
-
-
+- **[OsParking](https://github.com/osparking/OsParking_src)** <a href="https://github.com/osparking/OsParking_src/stargazers"><img src="https://img.shields.io/github/stars/osparking/OsParking_src?style=social&color=white" alt="OsParking Stars"/></a>  
+  Open-source parking lot management software designed for registered vehicles, integrating LPR simulation and barrier relays.
 
 ---
 
-**Made for parking operators, municipalities, campuses, and facility managers who want efficient, modern parking operations.**
+### 💡 Frameworks for Building Custom Parking Architectures
 
-Let's keep parking accessible, data-driven, and as open as practical.
+Deploy camera-based occupancy detection (**YOLO / OpenALPR**) ➔ Manage permits and reservations in a self-hosted app ➔ Control access barriers via microcontrollers ➔ Process payments via external APIs (Stripe / PayPal) ➔ Report occupancy & revenue on open dashboards.
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository.
+2. Add/edit entries in `README.md` (maintain table & badge formatting).
+3. Ensure entries include project name, link, star badge, and detailed description.
+4. Submit a Pull Request with a clear summary.
+
+⭐ **Star this repository if you find it useful!**
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated** resource and does not constitute financial, legal, or commercial endorsement.
+- Parking Access & Revenue Control Systems process vehicle registration data, financial payments, and barrier operations. Ensure strict PCI-DSS compliance, GDPR/privacy standards, and safety validation when deploying open-source or custom implementations.
+
+---
+
+<p align="center">
+  <b>Made for parking operators, smart city planners, campuses, and software engineers building modern parking solutions.</b>
+</p>
